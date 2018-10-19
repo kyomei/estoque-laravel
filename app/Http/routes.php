@@ -13,5 +13,5 @@
 
 Route::get('/', function () {
     //return view('welcome');
-    return 'Primeira lógica com Laravel';
+    return '<h1>Primeira lógica com Laravel</h1>';
 });
