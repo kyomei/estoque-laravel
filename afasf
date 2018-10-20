@@ -1,0 +1,29 @@
+[33mcommit 12eac372d52d2332f3c3039abe692f8a374fe62a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Rafael Jeferson <rafa.jefer@gmail.com>
+Date:   Sat Oct 20 12:31:27 2018 -0300
+
+    Configurando public/.htaccess para redirecionar http para https
+
+[33mcommit 0189ce3f286ed54bf44d555b454b176a11dca21c[m
+Author: Rafael Jeferson <rafa.jefer@gmail.com>
+Date:   Fri Oct 19 15:01:57 2018 -0300
+
+    Criando primeiro controller Produto e configurando a rota para acessa-lo
+
+[33mcommit 1c65ef945a5f03c77d2e02fb3bffc3fcd527bc59[m
+Author: Rafael Jeferson <rafa.jefer@gmail.com>
+Date:   Fri Oct 19 14:02:41 2018 -0300
+
+    Alterando primeira logica 'router'
+
+[33mcommit 9b66b073bfebcf1652f8227985d0a39836a7abc7[m
+Author: Rafael Jeferson <rafa.jefer@gmail.com>
+Date:   Fri Oct 19 14:01:28 2018 -0300
+
+    Primeira logica com Laravel 'router'
+
+[33mcommit 09029ddfe3561edb0ec2539c406138ef89ac6ac9[m
+Author: Rafael Jeferson <rafa.jefer@gmail.com>
+Date:   Fri Oct 19 13:54:02 2018 -0300
+
+    Iniciando projeto com namespace alterada para estoque
